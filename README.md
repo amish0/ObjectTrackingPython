@@ -6,15 +6,15 @@ Tracking Algorithm implementation
 - Yolov8
   https://github.com/ultralytics/ultralytics
 ## Tracking
-- ByteTrack
+- ByteTrack:
   https://github.com/ifzhang/ByteTrack
-- StrongSORT
+- StrongSORT:
   https://github.com/dyhBUPT/StrongSORT
-- BoT-SORT
+- BoT-SORT: 
   https://github.com/NirAharon/BoT-SORT
-- DeepSORt
+- DeepSORt: 
   https://github.com/nwojke/deep_sort
-- FairMOT
+- FairMOT: 
   https://github.com/ifzhang/FairMOT
-- Sort
+- SORT: 
   https://github.com/abewley/sort
