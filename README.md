@@ -6,7 +6,7 @@ Tracking Algorithm implementation
 - Yolov8
   https://github.com/ultralytics/ultralytics
 ## Tracking
-- ByteTrack <a href="(https://github.com/ifzhang/ByteTrack)" target="_blank">ByteTrack</a>
+- ByteTrack
   https://github.com/ifzhang/ByteTrack
 - StrongSORT
   https://github.com/dyhBUPT/StrongSORT
