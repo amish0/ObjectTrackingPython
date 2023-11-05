@@ -1,0 +1,4 @@
+tracker_type: sort  # tracker type, ['botsort', 'bytetrack', 'sort']
+max_age: 60
+min_hits: 3
+iou_threshold: 0.25
